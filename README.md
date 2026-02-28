@@ -19,13 +19,13 @@
 
 ### 💻 Desktop View
 
-![Desktop Preview](https://freeimage.host/i/qqdu4ol)
+![Desktop Preview](desktopview.jpeg)
 
 ---
 
 ### 📱 Mobile View
 
-![Mobile Preview](https://freeimage.host/i/qqdugt4)
+![Mobile Preview](mobileview.jpeg)
 
 ---
 
