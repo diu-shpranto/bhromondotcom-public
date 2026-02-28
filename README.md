@@ -1,10 +1,10 @@
 # 🌍 ভ্রমণ.কম (bhromondotcom)
 
-![React] (https://img.shields.io/badge/React-18-blue?logo=react)
-![TailwindCSS] (https://img.shields.io/badge/TailwindCSS-3-38BDF8?logo=tailwindcss)
-![Framer Motion] (https://img.shields.io/badge/Framer-Motion-purple)
-![Netlify] (https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify)
-![Status] (https://img.shields.io/badge/Status-Live-success)
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38BDF8?logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer-Motion-purple)
+![Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify)
+![Status](https://img.shields.io/badge/Status-Live-success)
 
 ---
 
